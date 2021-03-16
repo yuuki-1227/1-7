@@ -12,42 +12,34 @@
   background-size: cover;
 }
 
-.heading {
-  color: grey;
-  padding-top: 20px;
-  padding-left: 20px;
+.headline {
+  padding: 20px;
 }
 
 main {
-  display: flex;
-  justify-content: center;
-}
-.box {
   width: 840px;
   margin: 50px auto;
 }
 
 .box1 {
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid #d1d1d1;
   padding-bottom: 30px;
   margin-bottom: 30px;
 }
 
-}
 .box2 {
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid #d1d1d1;
   padding-bottom: 30px;
   margin-bottom: 30px;
 }
 
 .box3 {
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid #d1d1d1;
   padding-bottom: 30px;
   margin-bottom: 30px;
 }
 
 .box4 {
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid #d1d1d1;
   padding-bottom: 30px;
 }
-
